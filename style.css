@@ -63,13 +63,6 @@ text- #f8fcff */
     width: 50%;
 }
 
-.top-left h1, .top-left p{
-    padding: 20px;
-    background-color: #ff0066;
-    color: #f8fcff;
-    /* display: none; */
-}
-
 .master2{
     background-color: #0b0e2f;
     height: 90%;
