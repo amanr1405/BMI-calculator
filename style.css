@@ -52,6 +52,20 @@ text- #f8fcff */
     border-radius: 5px;
 }
 
+.master1B{
+    position: relative;
+}
+
+.top-left{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+.top-left h1{
+    /* display: none; */
+}
+
 .master2{
     background-color: #0b0e2f;
     height: 90%;
@@ -196,9 +210,6 @@ a, .container3 button{
 
     .master1, .master2{
         width: 90%;
-    }
-
-    .master2{
         display: flex;
         gap: 20px;
     }
