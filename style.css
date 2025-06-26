@@ -58,11 +58,15 @@ text- #f8fcff */
 
 .top-left{
     position: absolute;
-    top: 8px;
-    left: 16px;
+    top: 0px;
+    left: 0px;
+    width: 50%;
 }
 
-.top-left h1{
+.top-left h1, .top-left p{
+    padding: 20px;
+    background-color: #ff0066;
+    color: #f8fcff;
     /* display: none; */
 }
 
