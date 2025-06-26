@@ -107,6 +107,10 @@ a, .container3 button{
     font-style: italic;
 }
 
+strong{
+    color: #ff0066;
+}
+
 .container1, .container2, .container3{
     background-color: #13173a;
     width: auto;
